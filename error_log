@@ -1,0 +1,50 @@
+[26-Dec-2021 12:14:42 UTC] PHP Warning:  require(/home/vcxizufv0b1f/public_html/../vendor/autoload.php): failed to open stream: No such file or directory in /home/vcxizufv0b1f/public_html/index.php on line 34
+[26-Dec-2021 12:14:42 UTC] PHP Fatal error:  require(): Failed opening required '/home/vcxizufv0b1f/public_html/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vcxizufv0b1f/public_html/index.php on line 34
+[31-Dec-2021 14:53:11 UTC] PHP Fatal error:  Cannot use App\Models\Category as Category because the name is already in use in /home/vcxizufv0b1f/public_html/unique/app/Admin/Controllers/CategoryController.php on line 10
+[12-Jan-2022 15:58:03 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/vcxizufv0b1f/public_html/unique/app/Http/Controllers/Backend/RegisterController.php on line 4
+[12-Jan-2022 15:59:32 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/vcxizufv0b1f/public_html/unique/app/Http/Controllers/Backend/RegisterController.php on line 4
+[14-Jan-2022 14:14:13 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/vcxizufv0b1f/public_html/unique/app/Admin/Controllers/SubCategoryController.php on line 5
+[20-Jan-2022 12:43:59 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/vcxizufv0b1f/public_html/unique/app/Http/Controllers/Frontend/ProductController.php on line 33
+[20-Jan-2022 14:34:24 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Backend\Forgotpassword because the name is already in use in /home/vcxizufv0b1f/public_html/unique/app/Http/Controllers/Backend/Forgotpassword.php on line 12
+[20-Jan-2022 14:36:25 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\Backend\ForgotPassword because the name is already in use in /home/vcxizufv0b1f/public_html/unique/app/Http/Controllers/Backend/ForgotPassword.php on line 12
+[28-Jan-2022 16:38:17 UTC] PHP Warning:  require(/home/vcxizufv0b1f/public_html/unique/vendor/autoload.php): failed to open stream: No such file or directory in /home/vcxizufv0b1f/public_html/index.php on line 34
+[28-Jan-2022 16:38:17 UTC] PHP Fatal error:  require(): Failed opening required '/home/vcxizufv0b1f/public_html/unique/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vcxizufv0b1f/public_html/index.php on line 34
+[28-Jan-2022 16:38:22 UTC] PHP Warning:  require(/home/vcxizufv0b1f/public_html/unique/vendor/autoload.php): failed to open stream: No such file or directory in /home/vcxizufv0b1f/public_html/index.php on line 34
+[28-Jan-2022 16:38:22 UTC] PHP Fatal error:  require(): Failed opening required '/home/vcxizufv0b1f/public_html/unique/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vcxizufv0b1f/public_html/index.php on line 34
+[28-Jan-2022 16:38:23 UTC] PHP Warning:  require(/home/vcxizufv0b1f/public_html/unique/vendor/autoload.php): failed to open stream: No such file or directory in /home/vcxizufv0b1f/public_html/index.php on line 34
+[28-Jan-2022 16:38:23 UTC] PHP Fatal error:  require(): Failed opening required '/home/vcxizufv0b1f/public_html/unique/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vcxizufv0b1f/public_html/index.php on line 34
+[28-Jan-2022 16:38:54 UTC] PHP Warning:  require(/home/vcxizufv0b1f/public_html/unique/vendor/autoload.php): failed to open stream: No such file or directory in /home/vcxizufv0b1f/public_html/index.php on line 34
+[28-Jan-2022 16:38:54 UTC] PHP Fatal error:  require(): Failed opening required '/home/vcxizufv0b1f/public_html/unique/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vcxizufv0b1f/public_html/index.php on line 34
+[28-Jan-2022 16:40:19 UTC] PHP Warning:  require(/home/vcxizufv0b1f/public_html/unique/vendor/autoload.php): failed to open stream: No such file or directory in /home/vcxizufv0b1f/public_html/index.php on line 34
+[28-Jan-2022 16:40:19 UTC] PHP Fatal error:  require(): Failed opening required '/home/vcxizufv0b1f/public_html/unique/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vcxizufv0b1f/public_html/index.php on line 34
+[28-Jan-2022 16:41:02 UTC] PHP Warning:  require(/home/vcxizufv0b1f/public_html/unique/vendor/autoload.php): failed to open stream: No such file or directory in /home/vcxizufv0b1f/public_html/index.php on line 34
+[28-Jan-2022 16:41:02 UTC] PHP Fatal error:  require(): Failed opening required '/home/vcxizufv0b1f/public_html/unique/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vcxizufv0b1f/public_html/index.php on line 34
+[28-Jan-2022 16:41:04 UTC] PHP Warning:  require(/home/vcxizufv0b1f/public_html/unique/vendor/autoload.php): failed to open stream: No such file or directory in /home/vcxizufv0b1f/public_html/index.php on line 34
+[28-Jan-2022 16:41:04 UTC] PHP Fatal error:  require(): Failed opening required '/home/vcxizufv0b1f/public_html/unique/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vcxizufv0b1f/public_html/index.php on line 34
+[28-Jan-2022 16:41:05 UTC] PHP Warning:  require(/home/vcxizufv0b1f/public_html/unique/vendor/autoload.php): failed to open stream: No such file or directory in /home/vcxizufv0b1f/public_html/index.php on line 34
+[28-Jan-2022 16:41:05 UTC] PHP Fatal error:  require(): Failed opening required '/home/vcxizufv0b1f/public_html/unique/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/vcxizufv0b1f/public_html/index.php on line 34
+[05-Feb-2022 17:52:55 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /ho in /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-Feb-2022 17:52:55 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /ho in /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[05-Feb-2022 17:53:02 UTC] PHP Fatal error:  Uncaught RuntimeException: A facade root has not been set. in /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php:258
+Stack trace:
+#0 /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/RegisterErrorViewPaths.php(18): Illuminate\Support\Facades\Facade::__callStatic('replaceNamespac...', Array)
+#1 /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(598): Illuminate\Foundation\Exceptions\RegisterErrorViewPaths->__invoke()
+#2 /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(579): Illuminate\Foundation\Exceptions\Handler->registerErrorViewPaths()
+#3 /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php(490): Illuminate\Foundation\Exceptions\Handler->renderHttpException(Object(Symfony\Component\HttpKernel\Exception\HttpException))
+#4 /ho in /home/vcxizufv0b1f/public_html/unique/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 258
+[12-Feb-2022 17:11:08 UTC] PHP Fatal error:  Cannot use [] for reading in /home/vcxizufv0b1f/public_html/unique/app/Http/Controllers/Backend/CheckoutControllerr.php on line 92
+[12-Feb-2022 17:11:45 UTC] PHP Fatal error:  Cannot use [] for reading in /home/vcxizufv0b1f/public_html/unique/app/Http/Controllers/Backend/CheckoutControllerr.php on line 92
+[12-Feb-2022 17:13:00 UTC] PHP Fatal error:  Cannot use [] for reading in /home/vcxizufv0b1f/public_html/unique/app/Http/Controllers/Backend/CheckoutControllerr.php on line 92
+[13-Feb-2022 07:41:11 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/vcxizufv0b1f/public_html/unique/app/Http/Controllers/Backend/CheckoutControllerr.php on line 5
